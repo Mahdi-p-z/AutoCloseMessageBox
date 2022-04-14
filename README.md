@@ -2,6 +2,6 @@
 
 ### Auto Closing MessageBox Library For C#
 
-## Nuget
+# Nuget
 
 #### Install-Package AutoCloseMessageBox -Version 1.0.0.1
