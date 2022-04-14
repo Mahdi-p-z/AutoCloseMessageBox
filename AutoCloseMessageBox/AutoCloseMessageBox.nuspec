@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>1.0.0.1</version>
+    <title>$title$</title>
+    <authors>Ariaei</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/Mahdi-p-z/AutoCloseMessageBox</projectUrl>
+    <description>Auto Closing MessageBox Library</description>
+    <copyright>$copyright$</copyright>
+  </metadata>
+</package>

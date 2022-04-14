@@ -1,0 +1,6 @@
+C:\Users\mahdi\source\repos\AutoCloseMessageBox\AutoCloseMessageBox\bin\Debug\AutoCloseMessageBox.dll
+C:\Users\mahdi\source\repos\AutoCloseMessageBox\AutoCloseMessageBox\bin\Debug\AutoCloseMessageBox.pdb
+C:\Users\mahdi\source\repos\AutoCloseMessageBox\AutoCloseMessageBox\obj\Debug\AutoCloseMessageBox.csproj.AssemblyReference.cache
+C:\Users\mahdi\source\repos\AutoCloseMessageBox\AutoCloseMessageBox\obj\Debug\AutoCloseMessageBox.csproj.CoreCompileInputs.cache
+C:\Users\mahdi\source\repos\AutoCloseMessageBox\AutoCloseMessageBox\obj\Debug\AutoCloseMessageBox.dll
+C:\Users\mahdi\source\repos\AutoCloseMessageBox\AutoCloseMessageBox\obj\Debug\AutoCloseMessageBox.pdb

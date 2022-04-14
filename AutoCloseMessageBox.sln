@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoCloseMessageBox", "AutoCloseMessageBox\AutoCloseMessageBox.csproj", "{11683DDD-77B2-4063-8683-3BA6033E7323}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11683DDD-77B2-4063-8683-3BA6033E7323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11683DDD-77B2-4063-8683-3BA6033E7323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11683DDD-77B2-4063-8683-3BA6033E7323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11683DDD-77B2-4063-8683-3BA6033E7323}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CC18A9E-2C2F-4C25-9835-FCC6DA8C60AB}
+	EndGlobalSection
+EndGlobal
